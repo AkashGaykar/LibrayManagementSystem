@@ -55,21 +55,26 @@ For fetching book we ask user to book name and display the whole details of that
 OUTPUT -:
 ## Starting window :
 we are adding Library Details
+
 ![image](https://github.com/AkashGaykar/LibrayManagementSystem/assets/96353379/dd086160-2e86-402b-a16e-fd576c3c485b)
 
 ## To Add book 
 To add a book we taking input from user such as book name, Author name, book price
+
 ![image](https://github.com/AkashGaykar/LibrayManagementSystem/assets/96353379/20543540-a3cf-4f3e-949c-4271ccb7995b)
 
 ## To fetch book
 enter the book name and we fetch the all details of book
+
 ![image](https://github.com/AkashGaykar/LibrayManagementSystem/assets/96353379/68c37c7b-3765-48b6-b428-9e5f2e3b5b21)
 
 ## update Book 
 update book as per book name , author name and book price
+
 ![image](https://github.com/AkashGaykar/LibrayManagementSystem/assets/96353379/e7f388fe-0087-4f79-baaa-342246746341)
 
 ## Delete Book
+
 ![image](https://github.com/AkashGaykar/LibrayManagementSystem/assets/96353379/314384ab-c9c1-4d0f-b7c3-49cb6eb0aad9)
 
 
